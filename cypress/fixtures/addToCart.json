@@ -1,0 +1,11 @@
+{
+    "categoryProduct": "Fashion, Textiles and Fabrics",
+    "typeProduct":"Products",
+    "minimumPriceProduct":"10",
+    "maximumPriceProduct":"10,000",
+    "itemName":"neck fan",
+    "VerifyitemName":"neck fan",
+    "successMessage":"Success: Item has been placed in your cart, yay! Continue shopping."
+
+
+}
